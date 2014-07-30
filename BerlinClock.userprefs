@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\GitHub\motd\Assets\Plugins\Brainz Builder Game\Buildings\Construction Phase\CaptureObstacleLocationSelector.cs">
+    <Files>
+      <File FileName="..\..\GitHub\motd\Assets\Plugins\Brainz Builder Game\Buildings\Construction Phase\NewElementLocationSelector.cs" Line="12" Column="2" />
+      <File FileName="..\..\GitHub\motd\Assets\Plugins\Brainz Builder Game\Buildings\Construction Phase\PurchasedElementLocationSelector.cs" Line="93" Column="24" />
+      <File FileName="..\..\GitHub\motd\Assets\Plugins\Brainz Builder Game\Buildings\Construction Phase\PlaceAfterPurchaseHelper.cs" Line="1" Column="1" />
+      <File FileName="..\..\GitHub\motd\Assets\Plugins\Brainz Builder Game\Buildings\Construction Phase\CaptureObstacleLocationSelector.cs" Line="11" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
